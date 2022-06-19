@@ -1,0 +1,19 @@
+Sr.No.,Model Name,Date,Time,Keypad Max Value (AI0) ,Keypad Min Value (AI0) ,Keypad Actual Value (AI0) ,Keypad Max Value (AI1) ,Keypad Min Value (AI1) ,Keypad Actual Value (AI1) ,Camera Co-ordinate Max Value,Camera Co-ordinate Min Value,Camera Co-ordinate Actual Value,MIC Code,TFT Display Code,Status
+,SK Medium,04-08-2020 ,00:13:51,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,2.5,0.800,,,,
+,SK Medium,04-08-2020 ,20:33:18,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,2.5,0.800,,,,
+,SK Medium,04-08-2020 ,20:53:39,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,2.5,0.800,,,,
+,SK Medium,04-08-2020 ,20:56:35,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,2.5,0.800,,,,
+,SK Medium,04-08-2020 ,20:59:18,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,2.5,0.800,,,,
+,SK Medium,04-08-2020 ,22:03:39,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,22:07:37,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,22:13:14,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,22:24:17,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,22:35:49,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,22:39:04,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,23:18:30,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,23:23:58,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,23:29:08,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,23:32:49,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,23:37:42,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,23:42:19,Pass,Fail,Fail,Fail,Fail,Pass
+,SK Medium,04-08-2020 ,23:55:48,Pass,Fail,Fail,Fail,Fail,Pass

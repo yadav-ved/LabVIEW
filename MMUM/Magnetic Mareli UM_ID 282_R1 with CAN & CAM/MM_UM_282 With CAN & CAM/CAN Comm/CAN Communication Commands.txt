@@ -1,0 +1,81 @@
+Switch on TFT:
+TX:31 01 F03F 21 04 20 80
+rx:7101F03F
+
+Black mask:
+TX:31 01 F080 11 00 01
+Rx:7101F080
+
+white mask:
+TX:31 01 F080 11 00 00
+Rx:7101F080
+
+
+Black mask:
+TX:31 01 F080 11 00 01
+Rx:7101F080
+
+row1:
+
+TX:31 01 F03F 83 0000 00A0 00F0 0002 08
+Rx:7101F03F
+
+row2:
+Tx:31 01 F03F 83 0000 00A6 00F0 0002 08
+Rx:7101F03F
+
+row3:
+TX:31 01 F03F 83 0000 00AC 00F0 0002 08
+Rx:7101F03F
+
+Black mask:
+TX:31 01 F080 11 00 01
+Rx:7101F080
+
+cross talk:
+Tx:31 01 F080 11 00 12
+Rx:7101F080
+
+
+Greay scale:
+
+TX:31 01 F080 11 00 07
+RxL7101F080
+
+-----------------------------------------------------------
+
+VW/SK Medium:
+
+Switch On TFT:
+
+TX:31 01 F03F 21 04 20 80
+RX:7101F03F
+
+Grey Level on TFT:
+
+TX:31 01 F080 11 00 07
+RX:7101F080
+
+Switch Off TFT:
+
+TX:31 01 F084 01 00 00 00
+RX:7101F084
+
+-----------------------------------------------------------
+
+SK Global:
+
+Switch On LCD:
+
+TX:31 01 F084 01 00 80 00
+RX:7101F084
+
+LCD Segments High:
+
+TX:31 01 F0 60 21 00
+RX:7101F060
+
+Switch Off LCD:
+
+TX:31 01 F084 01 00 00 00
+RX:7101F084

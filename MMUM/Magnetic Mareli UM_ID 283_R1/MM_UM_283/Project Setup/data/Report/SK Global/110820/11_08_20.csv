@@ -1,0 +1,55 @@
+Sr.No.,Model Name,Date,Time,Model Pass/Fail ,MIC Code,Clip-1,Clip-2,Clip-3,Clip-4,Status
+,SK Global,11-08-2020 ,19:24:58,Pass,0UD6I20MUW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,19:29:51,Pass,0UD6I20MUW7W
+,Pass,Pass,Pass,Pass,Fail
+,SK Global,11-08-2020 ,19:32:47,Pass,0UD6I20MUW7W
+,Pass,Pass,Pass,Pass,Fail
+,SK Global,11-08-2020 ,19:35:53,Fail,0UD6I20MUW7W
+,Pass,Pass,Pass,Pass,Fail
+,SK Global,11-08-2020 ,19:37:07,Pass,0UD6I20MUW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,21:58:19,Pass,0UD6I20PUW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,22:01:18,Pass,0UD6I20J+W7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,22:04:16,Pass,0UD6I20J1W7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,22:07:18,Pass,0UD6I20J5W7W
+,Pass,Pass,Pass,Fail,Fail
+,SK Global,11-08-2020 ,22:08:41,Fail,0UD6I20J5W7W
+,Pass,Pass,Pass,Pass,Fail
+,SK Global,11-08-2020 ,22:10:43,Pass,0UD6I20J5W7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,22:41:01,Pass,0UD6I20P7W7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,22:43:50,Fail,,Pass,Pass,Pass,Pass,Fail
+,SK Global,11-08-2020 ,22:45:26,Fail,,Fail,Fail,Fail,Fail,Fail
+,SK Global,11-08-2020 ,22:46:33,Pass,0UD6I20RBW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,22:48:47,Pass,0UD6I20KJW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,22:53:23,Pass,0UD6I20KSW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,22:56:28,Pass,0UD6I20KKW7W
+,Pass,Pass,Fail,Pass,Fail
+,SK Global,11-08-2020 ,22:59:23,Pass,0UD6I20KKW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,23:19:06,Pass,0UD6I20INW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,23:22:50,Fail,0UD6I20NXW7W
+,Pass,Pass,Pass,Fail,Fail
+,SK Global,11-08-2020 ,23:32:14,Pass,0UD6I20NXW7W
+,Pass,Pass,Pass,Fail,Fail
+,SK Global,11-08-2020 ,23:33:51,Pass,0UD6I20NXW7W
+,Pass,Pass,Pass,Fail,Fail
+,SK Global,11-08-2020 ,23:36:19,Pass,0UD6I20NXW7W
+,Pass,Pass,Pass,Fail,Fail
+,SK Global,11-08-2020 ,23:40:55,Pass,0UD6I20KMW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,23:42:41,Pass,0UD6I20NXW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,23:46:48,Pass,0UD6I20KRW7W
+,Pass,Pass,Pass,Pass,Pass
+,SK Global,11-08-2020 ,23:55:52,Pass,0UD6I20PSW7W
+,Pass,Pass,Pass,Pass,Pass

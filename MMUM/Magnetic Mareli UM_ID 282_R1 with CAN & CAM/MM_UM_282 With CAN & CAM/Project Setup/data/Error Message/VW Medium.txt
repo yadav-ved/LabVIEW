@@ -1,0 +1,50 @@
+Press Start Push Button by Both Hand
+Release Emergency
+Press Reset Push Button 		
+Press Home Push Button
+Main Air Pressure Low
+Safety Sensor For Process Confirmation
+Safety Sensor For Process Confirmation
+Remove Protective Film & Put in waste collection box 
+Message Error 
+Message Error 
+Message Error 
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Electrical Panel Door Open
+Waiting...Put The Sub Assy on fixture
+Waiting...Clip_1
+Waiting...Clip_2
+Waiting...Clip_3
+Waiting...Clip_4
+Fixture Moving At Home
+Servo Fault... 
+Part Clamp Reed Switch
+Part Declamp Reed Switch
+Part Clamp Reed Switch
+Part Declamp Reed Switch
+Ingun Probe Cyl Up Reed Switch
+Ingun Probe Cyl Dn Reed Switch
+Load Pressing Cyl Up Reed Switch
+Load Pressing Cyl Dn Reed Switch
+CAM1 OK
+CAM1 NG
+CAM2 OK
+CAM2 NG
+CAM3 OK
+CAM3 NG
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error

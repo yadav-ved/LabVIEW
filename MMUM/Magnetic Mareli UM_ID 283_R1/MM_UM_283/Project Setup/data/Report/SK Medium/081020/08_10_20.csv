@@ -1,0 +1,6 @@
+Sr.No.,Model Name,Date,Time,Model Pass/Fail ,MIC Code,Clip-1,Clip-2,Clip-3,Clip-4,Load Max,Load Min,Load Actual Value,Actuator-1 Min,Actuator-1 Max,Actuator-1 Actual Value,Actuator-2 Min,Actuator-2 Max,Actuator-2 Actual Value,Status
+,SK Medium,08-10-2020 ,16:15:45,Fail,,Pass,Pass,Pass,Pass,50,25,0.000,0,2,0.000,0,2,0.000,Fail
+,SK Medium,08-10-2020 ,16:16:32,Fail,0UD8I208RW7W
+,Pass,Pass,Pass,Pass,50,25,0.000,0,2,0.000,0,2,0.000,Fail
+,SK Medium,08-10-2020 ,16:19:06,Pass,0UD8I208RW7W
+,Pass,Pass,Pass,Pass,50,25,39.376,0,2,-1.892,0,2,-1.932,Fail

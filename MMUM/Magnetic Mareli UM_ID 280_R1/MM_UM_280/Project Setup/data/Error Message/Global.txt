@@ -1,0 +1,41 @@
+Start PB 
+Release Emergency
+Press Reset Push Button 		
+Press Home Push Button
+Main Air Pressure Low
+Safety Sensor Disturb
+Safety Sensor Disturb
+Fixture Slide Servo Home
+Fixture Moving At Home
+TFT Pressing ServoMoving Home
+TFT Pressing Servo Error
+TFT Vaccum Not Achieved 
+Camera Co-ordinate OK 
+Camera Co-ordinate NG
+Diffuser Of Global Model
+TFT Conformation Of Global
+Wrong Model Light Box 
+Model Conformation-Global
+Diffuser height checking Sensor-1
+Diffuser height checking Sensor-2
+Panel Door Open
+Light Box Ionization
+Remove Back/Front side film
+Photo Prism presence Sensor
+Lightbox presence 
+Diffuser presence
+Photo prism height checking UP Cylender Reed Switch
+Photo prism height checking Down Cylender Reed Switch
+Camera slide Cyl Fwd. Reed Switch
+Camera slide Cyl REV. Reed Switch
+Clip pulling unit Cyl Fwd Rs 
+Clip pulling unit Cyl Rev Rs
+Clip clamp unit Cyl Fwd Rs 
+Clip clamp unit Cyl Rev Rs
+Error Message -3
+Part CNF 
+Slide Servo Rev. Proxi Senso
+Biadhesive Taps Remove1
+Biadhesive Taps Remove2
+Light Box  CNF
+Error Message -5

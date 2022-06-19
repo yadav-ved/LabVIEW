@@ -1,0 +1,50 @@
+Start PB 
+Release Emergency
+Press Reset Push Button 		
+Press Home Push Button
+Main Air Pressure Low
+Waitting ...Safety Sensor 
+Waitting ..Safety Sensor 
+Waitting for...WASTE COLLECTION(P0.7)
+Message Error
+Message Error 
+Message Error 
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Waiting for...Servo Rev RS (AI3)
+Panel Door Open Signal(AI4)
+Waiting for... PART PRESENT PHS (AI5)
+Please ionize the the part....
+Waiting for... CLIP LOCK CONFIRMATION DS-1 (AI7)
+Waiting for... CLIP LOCK CONFIRMATION DS-2 (AI8)
+Waiting for... CLIP LOCK CONFIRMATION DS-3 (AI9)
+Waiting for... CLIP LOCK CONFIRMATION DS-4 (AI10) 
+Waiting for... ACTUATOR PRESENCE LS-1(AI11)
+Waiting for... ACTUATOR PRESENCE LS-2(AI12)
+Waiting for... SLIDING SERVO HOME RS (AI13)
+Waiting for... SERVO FAULT SIGNAL
+Waiting for... PART CLAMP CYL-1 RS (AI15)
+Waiting for... PART DECLAMP CYL RS (AI16)
+Waiting for... PART CLAMP CYL-2 (AI17
+Waiting for... PART DECLAMP CYL-2RS (AI18)
+Waiting for... PRESSING CYL UP RS (AI19)
+Waiting for... PRESSING CYL DOWN RS (AI20)
+Waiting for... LVDT Cyl_1 & 2 Up RS (AI21)
+Waiting for... LVDT Cyl_1 & 2 DOWN RS(A22)
+Waiting for... PART 45Deg UP RS(AI23)
+Waiting for... PART 45Deg Down RS (AI24)
+Place Subassembly on The Fixture
+Place Subassembly on The Fixture
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
+Message Error
