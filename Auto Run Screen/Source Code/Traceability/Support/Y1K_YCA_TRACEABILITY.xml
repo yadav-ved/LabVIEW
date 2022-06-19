@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>Y1K_YCA_TRACEABILITY</name>
+  </assembly>
+  <members>
+    <member name="M:y1k_yca_traceability.EOL_Traceability.getscanstatus(System.String,System.String,System.String,System.String,System.Boolean@,System.Boolean@,System.String@)">
+      <summary></summary>
+      <returns>Void</returns>
+    </member>
+  </members>
+</doc>
